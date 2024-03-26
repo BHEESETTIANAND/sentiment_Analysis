@@ -54,3 +54,9 @@ Access the deployed model API at http://localhost:5000 and start making predicti
 📜 This project is licensed under the MIT License - see the LICENSE file for details.
 ## to Interact with the app
   app:  https://sentimentanalysisbyanand.streamlit.app/
+
+
+https://github.com/BHEESETTIANAND/sentiment_Analysis/assets/101445444/6f29f0b8-7e17-4d57-b53e-12554aa9a73a
+
+
+
