@@ -1,0 +1,10 @@
+pandas
+numpy
+nltk
+scikit-learn
+mlflow
+prefect
+joblib
+ipykernel
+prefect
+streamlit

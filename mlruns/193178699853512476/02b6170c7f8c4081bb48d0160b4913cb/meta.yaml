@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/sentiment/mlruns/193178699853512476/02b6170c7f8c4081bb48d0160b4913cb/artifacts
+end_time: 1711385372655
+entry_point_name: ''
+experiment_id: '193178699853512476'
+lifecycle_stage: active
+run_id: 02b6170c7f8c4081bb48d0160b4913cb
+run_name: resilient-goat-744
+run_uuid: 02b6170c7f8c4081bb48d0160b4913cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711385185206
+status: 3
+tags: []
+user_id: B MOHAN RAO

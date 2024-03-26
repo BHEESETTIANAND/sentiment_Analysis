@@ -1,0 +1,1 @@
+[{'tfidf__max_features': [100, 150, 200, 500], 'classifier__max_depth': [None, 5, 10]}]

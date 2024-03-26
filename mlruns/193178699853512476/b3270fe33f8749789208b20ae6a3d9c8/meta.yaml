@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/sentiment/mlruns/193178699853512476/b3270fe33f8749789208b20ae6a3d9c8/artifacts
+end_time: 1711385183335
+entry_point_name: ''
+experiment_id: '193178699853512476'
+lifecycle_stage: active
+run_id: b3270fe33f8749789208b20ae6a3d9c8
+run_name: stylish-elk-97
+run_uuid: b3270fe33f8749789208b20ae6a3d9c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711385153429
+status: 3
+tags: []
+user_id: B MOHAN RAO

@@ -1,0 +1,2 @@
+Pipeline(steps=[('tfidf', TfidfVectorizer()),
+                ('classifier', DecisionTreeClassifier())])

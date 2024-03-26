@@ -1,0 +1,16 @@
+artifact_uri: file:///e:/sentiment/mlruns/193178699853512476/0c10f560034041b4b0f0c672cc1cf3bc/artifacts
+deleted_time: 1711385165500
+end_time: 1711385024934
+entry_point_name: ''
+experiment_id: '193178699853512476'
+lifecycle_stage: deleted
+run_id: 0c10f560034041b4b0f0c672cc1cf3bc
+run_name: clumsy-trout-958
+run_uuid: 0c10f560034041b4b0f0c672cc1cf3bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711384983465
+status: 3
+tags: []
+user_id: B MOHAN RAO

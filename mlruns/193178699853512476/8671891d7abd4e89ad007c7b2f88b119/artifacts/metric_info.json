@@ -1,0 +1,3 @@
+{
+  "GridSearchCV_score_x_test": "GridSearchCV.score(X=x_test, y=y_test)"
+}

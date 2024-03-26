@@ -1,0 +1,16 @@
+artifact_uri: file:///e:/sentiment/mlruns/193178699853512476/63d498e8b153459d880df3d1ad1dd33c/artifacts
+deleted_time: 1711385165521
+end_time: 1711385024934
+entry_point_name: ''
+experiment_id: '193178699853512476'
+lifecycle_stage: deleted
+run_id: 63d498e8b153459d880df3d1ad1dd33c
+run_name: loud-asp-244
+run_uuid: 63d498e8b153459d880df3d1ad1dd33c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711384983465
+status: 3
+tags: []
+user_id: B MOHAN RAO

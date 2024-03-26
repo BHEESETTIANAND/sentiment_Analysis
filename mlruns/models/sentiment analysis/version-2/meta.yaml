@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1711385451179
+current_stage: Production
+description: ''
+last_updated_timestamp: 1711385482981
+name: sentiment analysis
+run_id: 8671891d7abd4e89ad007c7b2f88b119
+run_link: ''
+source: file:///e:/sentiment/mlruns/193178699853512476/8671891d7abd4e89ad007c7b2f88b119/artifacts/best_estimator
+status: READY
+status_message: null
+storage_location: file:///e:/sentiment/mlruns/193178699853512476/8671891d7abd4e89ad007c7b2f88b119/artifacts/best_estimator
+user_id: null
+version: 2

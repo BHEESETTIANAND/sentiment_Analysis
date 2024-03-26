@@ -1,0 +1,16 @@
+artifact_uri: file:///e:/sentiment/mlruns/193178699853512476/439b22f6f53c467bb7f3aa5b07802c6a/artifacts
+deleted_time: 1711385010912
+end_time: 1711384598081
+entry_point_name: ''
+experiment_id: '193178699853512476'
+lifecycle_stage: deleted
+run_id: 439b22f6f53c467bb7f3aa5b07802c6a
+run_name: casual-fish-198
+run_uuid: 439b22f6f53c467bb7f3aa5b07802c6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711384447153
+status: 3
+tags: []
+user_id: B MOHAN RAO

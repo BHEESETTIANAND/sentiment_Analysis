@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/sentiment/mlruns/193178699853512476/7cc7b477990647fcaed932b18d1a5535/artifacts
+end_time: 1711385183335
+entry_point_name: ''
+experiment_id: '193178699853512476'
+lifecycle_stage: active
+run_id: 7cc7b477990647fcaed932b18d1a5535
+run_name: redolent-hare-445
+run_uuid: 7cc7b477990647fcaed932b18d1a5535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711385153429
+status: 3
+tags: []
+user_id: B MOHAN RAO
